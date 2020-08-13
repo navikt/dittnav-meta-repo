@@ -7,12 +7,13 @@ vanlig vis for å jobbe mot en og en microservice.
 # Kom i gang
 Det må installeres et par ting før man kan ta i bruk meta.
 1. Installer `nvm`, f.eks.`brew install nvm`.
-2. Installer `meta`, `npm install -g meta`.
-3. Hent ned alle repo-ene, `meta git update`.
-4. Bygg alle modulene: `gradle clean assemble`.
-5. Alle microservice-ene skal nå ha fått et blått ikon på seg i fil-treet i IntelliJ. Hvis ikke så kan 
+2. Installer og bytt til node-versjonen som er spesifisert i filen `.nvmrc`, ved å kjøre: `nvm install`.
+3. Installer `meta`, ved å kjøre kommandoen `npm install -g meta`.
+4. Hent ned alle repo-ene: `meta git update`.
+5. Bygg alle modulene: `gradle clean assemble`.
+6. Alle microservice-ene skal nå ha fått et blått ikon på seg i fil-treet i IntelliJ. Hvis ikke så kan 
 `Reload All Gradle Projects` aktiveres i Gradle-fanen.
-6. Meta kan nå brukes for å utføre git-operasjoner på flere repo-er samtidig, f.eks. skrifte branch for alle 
+7. Meta kan nå brukes for å utføre git-operasjoner på flere repo-er samtidig, f.eks. skrifte branch for alle 
 microservice-ene: `meta git checkout enAnnenBranch`
 
 # Henvendelser
