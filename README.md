@@ -11,7 +11,7 @@ Det må installeres et par ting før man kan ta i bruk meta.
 3. Hent ned alle repo-ene, `meta git update`.
 4. Bygg alle modulene: `gradle clean assemble`.
 5. Alle microservice-ene skal nå ha fått et blått ikon på seg i fil-treet i IntelliJ. Hvis ikke så kan 
-`Reload All Gradle Projects` aktivers i Gradle-fanen.
+`Reload All Gradle Projects` aktiveres i Gradle-fanen.
 6. Meta kan nå brukes for å utføre git-operasjoner på flere repo-er samtidig, f.eks. skrifte branch for alle 
 microservice-ene: `meta git checkout enAnnenBranch`
 
