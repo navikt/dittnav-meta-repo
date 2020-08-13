@@ -1,0 +1,17 @@
+{
+  "projects": {
+      "dittnav": "https://github.com/navikt/dittnav.git",
+      "dittnav-api": "https://github.com/navikt/dittnav-api.git",
+      "dittnav-legacy-api": "https://github.com/navikt/dittnav-legacy-api.git",
+      "dittnav-event-handler": "https://github.com/navikt/dittnav-event-handler.git",
+      "dittnav-eventer-modia": "https://github.com/navikt/dittnav-eventer-modia.git",
+      "dittnav-docker-compose": "https://github.com/navikt/dittnav-docker-compose.git",
+      "dittnav-varsel-bestiller": "https://github.com/navikt/dittnav-varsel-bestiller.git",
+      "dittnav-event-aggregator": "https://github.com/navikt/dittnav-event-aggregator.git",
+      "dittnav-event-test-producer": "https://github.com/navikt/dittnav-event-test-producer.git",
+      "brukernotifikasjon-schemas": "https://github.com/navikt/brukernotifikasjon-schemas.git",
+      "brukernotifikasjon-topic-iac": "https://github.com/navikt/brukernotifikasjon-topic-iac.git",
+      "dittnav-periodic-metrics-reporter": "https://github.com/navikt/dittnav-periodic-metrics-reporter.git",
+      "dittnav-nightly-usage-statistics-reporter": "https://github.com/navikt/dittnav-nightly-usage-statistics-reporter.git"
+  }
+}
