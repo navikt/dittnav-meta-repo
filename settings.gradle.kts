@@ -2,6 +2,7 @@ rootProject.name = "dittnav-meta-repo"
 
 includeBuild("dittnav")
 includeBuild("dittnav-api")
+includeBuild("dittnav-common-lib")
 includeBuild("dittnav-legacy-api")
 includeBuild("dittnav-dependencies")
 includeBuild("dittnav-event-handler")
