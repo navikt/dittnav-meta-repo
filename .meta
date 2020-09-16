@@ -3,6 +3,7 @@
       "dittnav": "https://github.com/navikt/dittnav.git",
       "dittnav-api": "https://github.com/navikt/dittnav-api.git",
       "dittnav-common-lib": "https://github.com/navikt/dittnav-common-lib.git",
+      "dittnav-dependencies": "https://github.com/navikt/dittnav-dependencies.git",
       "dittnav-legacy-api": "https://github.com/navikt/dittnav-legacy-api.git",
       "dittnav-event-handler": "https://github.com/navikt/dittnav-event-handler.git",
       "dittnav-eventer-modia": "https://github.com/navikt/dittnav-eventer-modia.git",
