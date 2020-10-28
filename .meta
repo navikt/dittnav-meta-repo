@@ -9,7 +9,7 @@
       "dittnav-eventer-modia": "https://github.com/navikt/dittnav-eventer-modia.git",
       "dittnav-docker-compose": "https://github.com/navikt/dittnav-docker-compose.git",
       "brukernotifikasjon-docs": "https://github.com/navikt/brukernotifikasjon-docs.git",
-      "dittnav-varsel-bestiller": "https://github.com/navikt/dittnav-varsel-bestiller.git",
+      "dittnav-varselbestiller": "https://github.com/navikt/dittnav-varselbestiller.git",
       "dittnav-event-aggregator": "https://github.com/navikt/dittnav-event-aggregator.git",
       "dittnav-event-test-producer": "https://github.com/navikt/dittnav-event-test-producer.git",
       "brukernotifikasjon-schemas": "https://github.com/navikt/brukernotifikasjon-schemas.git",
