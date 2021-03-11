@@ -6,6 +6,7 @@
       "dittnav-dependencies": "git@github.com:navikt/dittnav-dependencies.git",
       "dittnav-legacy-api": "git@github.com:navikt/dittnav-legacy-api.git",
       "dittnav-event-handler": "git@github.com:navikt/dittnav-event-handler.git",
+      "dittnav-tidslinje-api": "git@github.com:navikt/dittnav-tidslinje-api.git",
       "dittnav-eventer-modia": "git@github.com:navikt/dittnav-eventer-modia.git",
       "dittnav-docker-compose": "git@github.com:navikt/dittnav-docker-compose.git",
       "brukernotifikasjon-docs": "git@github.com:navikt/brukernotifikasjon-docs.git",
@@ -16,6 +17,8 @@
       "brukernotifikasjon-topic-iac": "git@github.com:navikt/brukernotifikasjon-topic-iac.git",
       "dittnav-periodic-metrics-reporter": "git@github.com:navikt/dittnav-periodic-metrics-reporter.git",
       "dittnav-brukernotifikasjoner-intro": "git@github.com:navikt/dittnav-brukernotifikasjoner-intro.git",
+      "brukernotifikasjon-schemas-internal": "git@github.com:navikt/brukernotifikasjon-schemas-internal.git",
+      "dittnav-brukernotifikasjonbestiller": "git@github.com:navikt/dittnav-brukernotifikasjonbestiller.git",
       "dittnav-nightly-usage-statistics-reporter": "git@github.com:navikt/dittnav-nightly-usage-statistics-reporter.git"
   }
 }
