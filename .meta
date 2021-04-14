@@ -2,6 +2,7 @@
   "projects": {
       "dittnav": "git@github.com:navikt/dittnav.git",
       "dittnav-api": "git@github.com:navikt/dittnav-api.git",
+      "pb-nav-mocked": "git@github.com:navikt/pb-nav-mocked.git",
       "dittnav-common-lib": "git@github.com:navikt/dittnav-common-lib.git",
       "dittnav-dependencies": "git@github.com:navikt/dittnav-dependencies.git",
       "dittnav-legacy-api": "git@github.com:navikt/dittnav-legacy-api.git",
